@@ -1,3 +1,4 @@
+import { Payload } from './Payload';
 import { Cargo } from './Cargo';
 import { Astronaut } from './Astronaut';
 
